@@ -1,0 +1,37 @@
+# Dummy Documentation
+ 
+Welcome to the dummy documentation! This file showcases various Markdown features supported by MkDocs.
+ 
+## 📷 Image Example
+ 
+Here’s an example image:
+ 
+![Sample Image](https://via.placeholder.com/300x150.png?text=Dummy+Image)
+ 
+## 📊 Table Example
+ 
+| Feature       | Description                     | Status   |
+|---------------|----------------------------------|----------|
+| Images        | Embedded via Markdown syntax     | ✅       |
+| Tables        | Simple and readable              | ✅       |
+| Code Blocks   | Syntax highlighting supported    | ✅       |
+ 
+## 🔢 Numbered List
+ 
+1. Introduction
+2. Features
+3. Conclusion
+ 
+## ✅ Checklist
+ 
+- [x] Create MkDocs project
+- [x] Add dummy Markdown file
+- [ ] Customize theme
+ 
+## 💻 Code Block
+ 
+```python
+def greet(name):
+    return f"Hello, {name}!"
+has context menu
+

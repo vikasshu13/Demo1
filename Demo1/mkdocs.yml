@@ -1,0 +1,16 @@
+site_name: My Documentation site
+
+theme:
+  name: material  # or 'readthedocs', 'mkdocs', etc.
+  
+nav:
+- Home: index.md
+- Introduction: introduction.md
+- Architecture: architecture.md
+- Features: features.md
+- Usage: usage.md
+- FAQ: faq.md
+
+validation:
+  links:
+    internal: ignore
